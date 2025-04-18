@@ -13,6 +13,10 @@
 | 日付 | 状況 |
 ----|----
 | 2025/04/28 | データベースをExpess.jsとmongoDBでデータベースを作っている最中 |
+
+
+![](https://raw.githubusercontent.com/nAgI314/nAgI314/output/github-contribution-grid-snake.svg)
+
 <!--
 **nAgI314/nAgI314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
