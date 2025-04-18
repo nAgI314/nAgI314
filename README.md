@@ -1,5 +1,18 @@
-## Hi there 👋
+## 自己紹介 
 
+大学生です。
+
+### やりたいこと
+- [ ] データベースを作る（セルフホスト）
+- [ ] java使ってみる
+- [ ] マルチモーダルAIを作る
+- [ ] ネットワークを色々理解する
+- [ ] インターンに参加する
+
+### 歴史
+| 日付 | 状況 |
+----|----
+| 2025/04/28 | データベースをExpess.jsとmongoDBでデータベースを作っている最中 |
 <!--
 **nAgI314/nAgI314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
