@@ -22,6 +22,7 @@
 | 日付 | 状況 |
 ----|----
 | 2025/04/28 | データベースをExpess.jsとmongoDBでデータベースを作っている最中 |
+| 2025/06/14 | ↑はdocker上で成功（サーバー用pcを買うお金がないので、実際に立ててみるのは後で|
 
 
 ![](https://raw.githubusercontent.com/nAgI314/nAgI314/output/github-contribution-grid-snake.svg)
