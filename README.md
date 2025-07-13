@@ -9,7 +9,7 @@
 - [ ] マルチモーダルAIを作る
 - [ ] ネットワークを色々理解する
 - [ ] インターンに参加する
-- [ ] expo とやらでクロスプラットフォーム開発を試す（React Nativeなので簡単?）
+- [x] expo とやらでクロスプラットフォーム開発を試す（React Nativeなので簡単?）
 - [ ] マークダウンをいっぱい書いて慣れる
 - [ ] 大人数での開発に参加する
 - [x] 研究テーマを定める
@@ -21,6 +21,7 @@
 | 2025/04/28 | データベースをExpess.jsとmongoDBでデータベースを作っている最中 |
 | 2025/06/14 | ↑はdocker上で成功（サーバー用pcを買うお金がないので、実際に立ててみるのは後で|
 | 2025/06/28 | expoでメモアプリ作ってる |
+| 2025/07/13 | expo断念、react native CLIで |
 
 
 ![](https://raw.githubusercontent.com/nAgI314/nAgI314/output/github-contribution-grid-snake.svg)
