@@ -22,6 +22,8 @@
 | 2025/06/14 | ↑はdocker上で成功（サーバー用pcを買うお金がないので、実際に立ててみるのは後で|
 | 2025/06/28 | expoでメモアプリ作ってる |
 | 2025/07/13 | expo断念、react native CLIで |
+| 2025/09/16 | rustしてる |
+
 
 
 ![](https://raw.githubusercontent.com/nAgI314/nAgI314/output/github-contribution-grid-snake.svg)
